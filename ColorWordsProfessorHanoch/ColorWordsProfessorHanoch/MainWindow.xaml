@@ -1,0 +1,22 @@
+﻿<Window x:Class="ColorWordsProfessorHanoch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ColorWordsProfessorHanoch"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.ColumnSpan="2">
+            <Button x:Name="change_Text" Content="Change Text" Margin="237.303,148.485,235.227,125.061" Click="change_Text_Click"/>
+        </Grid>
+        
+        <RichTextBox x:Name="textBox_Original_Text" Margin="0,100,10,0"  IsEnabled="False" Grid.Column="1" HorizontalAlignment="Right" Width="209.712" Height="159.091" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_Resalut_Text" Margin="10,100,0,0" TextWrapping="Wrap" HorizontalAlignment="Left" Width="209.712" Height="159.091" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

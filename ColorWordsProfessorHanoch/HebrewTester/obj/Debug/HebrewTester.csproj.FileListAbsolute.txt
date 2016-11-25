@@ -1,0 +1,8 @@
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\HebrewTester\bin\Debug\HebrewTester.exe.config
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\HebrewTester\bin\Debug\HebrewTester.exe
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\HebrewTester\bin\Debug\HebrewTester.pdb
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\HebrewTester\bin\Debug\FindTheVaul.dll
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\HebrewTester\bin\Debug\FindTheVaul.pdb
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\HebrewTester\obj\Debug\HebrewTester.csprojResolveAssemblyReference.cache
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\HebrewTester\obj\Debug\HebrewTester.exe
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\HebrewTester\obj\Debug\HebrewTester.pdb

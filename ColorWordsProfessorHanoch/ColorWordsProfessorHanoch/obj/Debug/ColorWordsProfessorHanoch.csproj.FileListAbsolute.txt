@@ -1,0 +1,17 @@
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\bin\Debug\ColorWordsProfessorHanoch.exe.config
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\bin\Debug\ColorWordsProfessorHanoch.exe
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\bin\Debug\ColorWordsProfessorHanoch.pdb
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\ColorWordsProfessorHanoch.csprojResolveAssemblyReference.cache
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\MainWindow.g.cs
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\App.g.cs
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\ColorWordsProfessorHanoch_MarkupCompile.cache
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\ColorWordsProfessorHanoch_MarkupCompile.lref
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\MainWindow.baml
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\ColorWordsProfessorHanoch.g.resources
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\ColorWordsProfessorHanoch.Properties.Resources.resources
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\ColorWordsProfessorHanoch.csproj.GenerateResource.Cache
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\ColorWordsProfessorHanoch.exe
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\ColorWordsProfessorHanoch.pdb
+C:\WorkspaceHome\C#\LetterColoringByVowels\LattersColoringByVawels\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\bin\Debug\ColorWordsProfessorHanoch.exe.config
+C:\WorkspaceHome\C#\LetterColoringByVowels\LattersColoringByVawels\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\ColorWordsProfessorHanoch.exe
+C:\WorkspaceHome\C#\LetterColoringByVowels\LattersColoringByVawels\ColorWordsProfessorHanoch\ColorWordsProfessorHanoch\obj\Debug\ColorWordsProfessorHanoch.pdb

@@ -1,0 +1,5 @@
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\FindTheVaul\obj\Debug\FindTheVaul.csprojResolveAssemblyReference.cache
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\FindTheVaul\bin\Debug\FindTheVaul.dll
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\FindTheVaul\bin\Debug\FindTheVaul.pdb
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\FindTheVaul\obj\Debug\FindTheVaul.dll
+c:\users\tzvi.s\documents\visual studio 2015\Projects\ColorWordsProfessorHanoch\FindTheVaul\obj\Debug\FindTheVaul.pdb
